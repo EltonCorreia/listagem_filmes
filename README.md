@@ -1,3 +1,3 @@
 # listagem_filmes
 
-# Sistema de listagem e classificação de filmes.
+Sistema de listagem e classificação de filmes feita em Python.
